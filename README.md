@@ -8,15 +8,19 @@ The hub-and-spoke model organizes content around topics: a hub page gives a broa
 
 ## What is inside
 
-- `01-the-model.md` hubs, spokes, and how they connect.
-- `02-why-it-works.md` what the structure does for authority and discovery.
-- `03-building-a-hub.md` planning and creating the central page.
-- `04-linking-rules.md` how to link between hub and spokes.
-- `05-common-mistakes.md` the structural errors that waste the model.
+- [01-the-model.md](01-the-model.md) hubs, spokes, and how they connect.
+- [02-why-it-works.md](02-why-it-works.md) what the structure does for authority and discovery.
+- [03-building-a-hub.md](03-building-a-hub.md) planning and creating the central page.
+- [04-linking-rules.md](04-linking-rules.md) how to link between hub and spokes.
+- [05-common-mistakes.md](05-common-mistakes.md) the structural errors that waste the model.
 
 ## The stance
 
 This reference treats internal linking as a deliberate structure, not an afterthought. Links between your own pages are signals you fully control, and the hub-and-spoke model uses them to build topic authority that scattered, unstructured linking cannot.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
